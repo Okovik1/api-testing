@@ -1,0 +1,18 @@
+{
+  "id": 543,
+  "category": {
+    "id": 4,
+    "name": "Cats"
+  },
+  "name": "Oscar",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 5,
+      "name": "tag5"
+    }
+  ],
+  "status": "pending"
+}
